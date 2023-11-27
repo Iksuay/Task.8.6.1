@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Xml.Linq;
 
-string folderPath = @"C:\Users\amer\Рабочий стол\TrashFolder";
+string folderPath = @"C:\Users\amer\Рабочий стол\folder";
 
 if (Directory.Exists(folderPath))
 {
